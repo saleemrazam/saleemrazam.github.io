@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://saleemrazam/saleemrazam.github.io.git/sitemap.xml
+Sitemap: https://saleemrazam.github.io.git/sitemap.xml
