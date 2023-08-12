@@ -1,10 +1,10 @@
 <!title: General Information
-  type: map
+  #type: map
   contents:
     - name: Full Name
       value: Saleem Raza
     - name: Date of Birth
-      value: 1st Jannuary 1985
+      value: 1 Jannuary 1985
     - name: Languages
       value: English, Sindhi, Urdu, German
 
